@@ -1,4 +1,4 @@
-// 1 oct 6:01pm IST 2020
+// 24 oct 3:10pm IST 2020
 
 const ap = new APlayer({
     container: document.getElementById('aplayer'),
@@ -81,9 +81,9 @@ const ap = new APlayer({
         {
             name: 'Slump',
             artist: 'Stray Kids',
-            url: 'https://music.yolodev.workers.dev/1:/Music/Stray%20Kids%20%E3%80%8ESLUMP%20-Japanese%20ver.-%E3%80%8FMusic%20Video(TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E7%A5%9E%E4%B9%8B%E5%A1%94%20-Tower%20of%20God-%E3%80%8Dver.).mp3',
+            url: 'https://music.yolodev.workers.dev/1:/Music/slump.mp3',
             cover: 'https://music.yolodev.workers.dev/1:/Poster/slump.png',
-            lrc: '',
+            lrc: 'https://cdn.jsdelivr.net/gh/menecho007/animemusic@master/lrc/slump.lrc',
             theme: '#46718b'
         },
         {
