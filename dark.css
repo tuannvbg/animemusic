@@ -234,9 +234,9 @@ select:-webkit-autofill {
 
 
 @media screen and (min-width: 1000px) {
-	.aplayer-wrap {
-   		transform: scale(1.3);
-	}
+	body{
+		zoom: 1.3;
+	}	
 }
 
 
