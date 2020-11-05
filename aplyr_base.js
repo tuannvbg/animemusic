@@ -36,10 +36,10 @@ const ap = new APlayer({
 // Key Bindings
 
 document.addEventListener('keydown', function(event) {
-    if(event.keyCode == 9) {  // tab
+    if(event.keyCode == 65) {  // a
         ap.list.toggle();
     }
-    else if(event.keyCode == 32) { //space
+    else if(event.keyCode == 80) { //p
         ap.toggle();
     }
     else if(event.keyCode == 40) { //down arrow
