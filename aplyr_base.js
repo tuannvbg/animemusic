@@ -15,19 +15,19 @@ const ap = new APlayer({
     lrcType: 3,
     audio: [
         {
-            name: 'Music2',
-            artist: 'Artist2',
-            url: '[Link_to_audio]',
-            cover: '[Cover_link]',
-            lrc: '[lrc file link]',
+            name: 'Mỹ Nhân',
+            artist: 'Đinh Đại Vũ',
+            url: 'https://dl.dropboxusercontent.com/s/0d2ooyr1d3eg3s7/Dinh.Dai.Vu-My.Nhan.mp3',
+            cover: 'https://avatar-ex-swe.nixcdn.com/song/2019/11/28/1/e/6/0/1574932935845.jpg',
+            lrc: 'https://static-zmp3.zadn.vn/lyrics/4/a/b/5/4ab5f4fd09865878c23d4aea76a14fce.lrc',
             theme: '#46718b'
         },
         {
-            name: 'Music1',
-            artist: 'Artist1',
-            url: '[Link_to_audio]',
-            cover: '[Cover_link]',
-            lrc: '[lrc file link]',
+            name: 'Vầng Trăng Khóc Remix',
+            artist: 'Minh Vương M4U, Hương Ly, ACV',
+            url: 'https://dl.dropboxusercontent.com/s/n2ujb20yv5z4q72/Minh.Vuong.M4U-Huong.Ly-ACV-Vang.Trang.Khoc.mp3',
+            cover: 'https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/03/06/1/0/a/4/1520308951432.jpg',
+            lrc: 'https://dl.dropboxusercontent.com/s/v3mu9tbdk2uhee1/Minh.Vuong.M4U-Huong.Ly-ACV-Vang.Trang.Khoc.lrc',
             theme: '#46718b'
         }
     ]
